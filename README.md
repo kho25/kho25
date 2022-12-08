@@ -1,16 +1,6 @@
 ## About me
 
-> always:
-> try{
->   your best
->     do{
->       what you need to do;
->       }while (you still have time);
->   if(you fail)
->     throw "all your worries";
-> }catch(yourself{
->   everytime you fall;
-> }
+> I wear glasses because I can't C#
 
 | Rank | Best Languages |
 |-----:|---------------|
