@@ -1,7 +1,16 @@
 ## About me
 
-> Debugging is like bing the detective in a crime movie where you're also the murderer.
-- Filipe Fortes
+> always:
+> try{
+>   your best
+>     do{
+>       what you need to do;
+>       }while (you still have time);
+>   if(you fail)
+>     throw "all your worries";
+> }catch(yourself{
+>   everytime you fall;
+> }
 
 | Rank | Best Languages |
 |-----:|---------------|
