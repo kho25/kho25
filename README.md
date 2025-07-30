@@ -1,7 +1,3 @@
 ## About me
 
-| Rank | Best Languages |
-|-----:|---------------|
-|     1| Java|
-|     2| Python|
-|     3| C++|
+[![Kelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=kho25)](https://github.com/anuraghazra/github-readme-stats)
