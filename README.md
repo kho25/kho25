@@ -1,3 +1,3 @@
 ## About me
 
-[![Kelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=kho25)](https://github.com/anuraghazra/github-readme-stats)
+[![Kelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=kho25&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
